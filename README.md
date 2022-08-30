@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amitkum89762221" target="blank"><img src="https://img.shields.io/twitter/follow/amitkum89762221?logo=twitter&style=for-the-badge" alt="amitkum89762221" /></a> </p>
 
-- 🌱 I’m currently working **IMG Global Infotech Private Limited**
+- 🌱 I’m currently working **React.js**
 
 - 💬 Ask me about **React.js**
 
