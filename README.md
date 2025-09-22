@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/amitkum89762221" target="blank"><img src="https://img.shields.io/twitter/follow/amitkum89762221?logo=twitter&style=for-the-badge" alt="amitkum89762221" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I am a React.js Developer with 3+ years of experience in building scalable and responsive web
+applications. Proficient in modern front-end technologies including React.js, Next.js, TypeScript, Redux
+Toolkit, and REST API integration. Skilled in performance optimization, debugging, and delivering
+user-friendly interfaces. Experienced in collaborating with cross-functional teams and deploying
+production-grade applications.**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js || Next.js || Javascript || CSS3 || HTML5 || WebSocket || Socket.io || RazorPay Integration**
 
 - 📫 How to reach me **amityadav46613@gmail.com**
 
